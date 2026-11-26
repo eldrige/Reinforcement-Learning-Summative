@@ -1,0 +1,30 @@
+[project]
+name = "rl-summative"
+version = "0.1.0"
+description = "Community health outreach RL mission: DQN vs REINFORCE vs PPO vs A2C with TorchRL"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "gymnasium>=1.4.0",
+    "imageio>=2.38.2",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "pandas>=3.1.1",
+    "pygame>=2.6.1",
+    "pyopengl>=3.1.10",
+    "tabulate>=0.10.0",
+    "tensordict>=0.15.6",
+    "torch>=2.15.0",
+    "torchrl>=0.15.0",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

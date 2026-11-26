@@ -1,0 +1,24 @@
+{
+  "config": {
+    "lr": 0.001,
+    "gamma": 0.95,
+    "hidden": [
+      128,
+      128
+    ],
+    "frames_per_batch": 1000,
+    "use_baseline": true,
+    "normalize_adv": true,
+    "entropy_coef": 0.01,
+    "total_frames": 300000,
+    "seed": 0
+  },
+  "algo": "reinforce",
+  "run_id": 3,
+  "eval_return": 49.56609924316406,
+  "eval_success": 1.0,
+  "eval_length": 63.42,
+  "episodes": 2019,
+  "frames_to_converge": 225000,
+  "train_time_s": 159.08541703224182
+}

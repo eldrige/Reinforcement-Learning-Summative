@@ -1,0 +1,9 @@
+algo,test,mean_return,success_rate,mean_steps
+DQN,"unseen risk draws, clinic start",52.1,1.0,67.4
+DQN,"unseen risk draws, random start",14.24,0.6,123.3
+REINFORCE,"unseen risk draws, clinic start",48.08,1.0,63.2
+REINFORCE,"unseen risk draws, random start",38.33,0.83,84.4
+PPO,"unseen risk draws, clinic start",52.04,1.0,67.6
+PPO,"unseen risk draws, random start",18.54,0.62,116.8
+A2C,"unseen risk draws, clinic start",48.17,1.0,61.2
+A2C,"unseen risk draws, random start",43.3,1.0,92.0

@@ -1,0 +1,26 @@
+{
+  "config": {
+    "lr": 0.0007,
+    "gamma": 0.99,
+    "gae_lambda": 1.0,
+    "frames_per_batch": 256,
+    "entropy_coef": 0.01,
+    "critic_coef": 0.5,
+    "hidden": [
+      128,
+      128
+    ],
+    "optimizer": "rmsprop",
+    "max_grad_norm": 0.5,
+    "total_frames": 300000,
+    "seed": 0
+  },
+  "algo": "a2c",
+  "run_id": 4,
+  "eval_return": -18.83999906539917,
+  "eval_success": 0.0,
+  "eval_length": 200.0,
+  "episodes": 1500,
+  "frames_to_converge": null,
+  "train_time_s": 199.70976209640503
+}

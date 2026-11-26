@@ -1,0 +1,798 @@
+[92m2026-11-25 00:21:52,838 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[92m2026-11-25 00:21:52,838 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[92m2026-11-25 00:21:52,861 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[92m2026-11-25 00:21:52,863 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[92m2026-11-25 00:21:52,967 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[92m2026-11-25 00:21:53,066 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([5000]) shape[92m [END][0m
+[DQN run 4] frames=  10000 eps=0.90 train_ret= -62.10 eval_ret= -18.49 success=0% len=200
+[DQN run 0] frames=  10000 eps=0.90 train_ret= -44.10 eval_ret= -30.58 success=0% len=200
+[DQN run 5] frames=  10000 eps=0.90 train_ret= -43.70 eval_ret= -46.38 success=0% len=200
+[DQN run 2] frames=  10000 eps=0.90 train_ret= -56.70 eval_ret=-113.34 success=0% len=200
+[DQN run 1] frames=  10000 eps=0.90 train_ret= -55.40 eval_ret= -68.18 success=0% len=200
+[DQN run 3] frames=  10000 eps=0.90 train_ret= -43.50 eval_ret= -33.10 success=0% len=200
+[DQN run 4] frames=  20000 eps=0.77 train_ret= -25.30 eval_ret=  -2.74 success=0% len=200
+[DQN run 0] frames=  20000 eps=0.77 train_ret= -43.00 eval_ret= -37.75 success=0% len=200
+[DQN run 2] frames=  20000 eps=0.77 train_ret= -41.70 eval_ret= -61.19 success=0% len=200
+[DQN run 1] frames=  20000 eps=0.77 train_ret= -45.30 eval_ret= -48.61 success=0% len=200
+[DQN run 3] frames=  20000 eps=0.77 train_ret= -38.20 eval_ret= -25.02 success=0% len=200
+[DQN run 5] frames=  20000 eps=0.77 train_ret= -40.10 eval_ret= -17.55 success=0% len=200
+[DQN run 4] frames=  30000 eps=0.64 train_ret= -17.70 eval_ret=   7.78 success=0% len=200
+[DQN run 5] frames=  30000 eps=0.64 train_ret= -35.40 eval_ret= -14.39 success=0% len=200
+[DQN run 0] frames=  30000 eps=0.64 train_ret= -30.60 eval_ret=  -6.59 success=0% len=200
+[DQN run 2] frames=  30000 eps=0.64 train_ret=  -2.50 eval_ret=  -4.22 success=0% len=200
+[DQN run 1] frames=  30000 eps=0.64 train_ret= -23.10 eval_ret= -30.25 success=0% len=200
+[DQN run 3] frames=  30000 eps=0.64 train_ret=  -6.30 eval_ret= -18.32 success=0% len=200
+[DQN run 4] frames=  40000 eps=0.52 train_ret= -28.70 eval_ret=  16.65 success=0% len=200
+[DQN run 5] frames=  40000 eps=0.52 train_ret= -30.50 eval_ret=  -3.98 success=0% len=200
+[DQN run 2] frames=  40000 eps=0.52 train_ret=    nan eval_ret=   7.30 success=0% len=200
+[DQN run 1] frames=  40000 eps=0.52 train_ret= -19.20 eval_ret= -24.50 success=0% len=200
+[DQN run 0] frames=  40000 eps=0.52 train_ret= -16.40 eval_ret=  11.62 success=0% len=200
+[DQN run 3] frames=  40000 eps=0.52 train_ret= -18.60 eval_ret=  15.52 success=0% len=200
+[DQN run 4] frames=  50000 eps=0.39 train_ret=  -1.40 eval_ret=   4.95 success=0% len=200
+[DQN run 5] frames=  50000 eps=0.39 train_ret=   1.70 eval_ret= -53.68 success=0% len=200
+[DQN run 1] frames=  50000 eps=0.39 train_ret=  -3.70 eval_ret= -11.87 success=0% len=200
+[DQN run 0] frames=  50000 eps=0.39 train_ret=   3.40 eval_ret=  12.22 success=0% len=200
+[DQN run 2] frames=  50000 eps=0.39 train_ret=  40.31 eval_ret=   8.13 success=10% len=192
+[DQN run 3] frames=  50000 eps=0.39 train_ret=   2.80 eval_ret=  11.62 success=0% len=200
+[DQN run 4] frames=  60000 eps=0.26 train_ret=  -5.20 eval_ret=  11.21 success=0% len=200
+[DQN run 5] frames=  60000 eps=0.26 train_ret=  -0.90 eval_ret=   0.99 success=0% len=200
+[DQN run 1] frames=  60000 eps=0.26 train_ret= -19.90 eval_ret=  -2.87 success=0% len=200
+[DQN run 2] frames=  60000 eps=0.26 train_ret=    nan eval_ret=  22.44 success=30% len=177
+[DQN run 0] frames=  60000 eps=0.26 train_ret=  -7.00 eval_ret=   7.23 success=0% len=200
+[DQN run 3] frames=  60000 eps=0.26 train_ret=    nan eval_ret=  14.80 success=0% len=200
+[DQN run 4] frames=  70000 eps=0.14 train_ret=    nan eval_ret=  19.98 success=0% len=200
+[DQN run 5] frames=  70000 eps=0.14 train_ret=  -9.40 eval_ret=   0.26 success=0% len=200
+[DQN run 2] frames=  70000 eps=0.14 train_ret=  50.25 eval_ret=  51.40 success=100% len=94
+[DQN run 3] frames=  70000 eps=0.14 train_ret=    nan eval_ret=   9.41 success=0% len=200
+[DQN run 1] frames=  70000 eps=0.14 train_ret=  -7.30 eval_ret=   3.17 success=0% len=200
+[DQN run 0] frames=  70000 eps=0.14 train_ret=   3.40 eval_ret=   5.70 success=0% len=200
+[DQN run 4] frames=  80000 eps=0.05 train_ret=  41.32 eval_ret=  16.25 success=0% len=200
+[DQN run 5] frames=  80000 eps=0.05 train_ret= -15.80 eval_ret= -12.28 success=0% len=200
+[DQN run 2] frames=  80000 eps=0.05 train_ret=  49.79 eval_ret=  54.59 success=100% len=69
+[DQN run 3] frames=  80000 eps=0.05 train_ret=  39.82 eval_ret=  36.87 success=60% len=134
+[DQN run 1] frames=  80000 eps=0.05 train_ret=  -5.90 eval_ret=  10.97 success=0% len=200
+[DQN run 0] frames=  80000 eps=0.05 train_ret=    nan eval_ret=  22.58 success=0% len=200
+[DQN run 4] frames=  90000 eps=0.05 train_ret=   8.60 eval_ret=   1.77 success=10% len=195
+[DQN run 5] frames=  90000 eps=0.05 train_ret= -26.20 eval_ret= -19.20 success=0% len=200
+[DQN run 2] frames=  90000 eps=0.05 train_ret=  33.73 eval_ret=  52.61 success=100% len=72
+[DQN run 3] frames=  90000 eps=0.05 train_ret=    nan eval_ret=  37.61 success=90% len=116
+[DQN run 1] frames=  90000 eps=0.05 train_ret=  13.90 eval_ret=   7.44 success=0% len=200
+[DQN run 0] frames=  90000 eps=0.05 train_ret=  18.50 eval_ret=  30.56 success=20% len=174
+[DQN run 4] frames= 100000 eps=0.05 train_ret=  24.07 eval_ret=  36.64 success=80% len=99
+[DQN run 2] frames= 100000 eps=0.05 train_ret=  62.74 eval_ret=  54.25 success=100% len=83
+[DQN run 5] frames= 100000 eps=0.05 train_ret= -35.70 eval_ret= -19.40 success=0% len=200
+[DQN run 3] frames= 100000 eps=0.05 train_ret=  49.26 eval_ret=  50.97 success=100% len=75
+[DQN run 1] frames= 100000 eps=0.05 train_ret=  14.50 eval_ret=   7.20 success=0% len=200
+[DQN run 0] frames= 100000 eps=0.05 train_ret=  31.70 eval_ret=  34.96 success=30% len=176
+[DQN run 4] frames= 110000 eps=0.05 train_ret=  47.30 eval_ret=  19.31 success=60% len=132
+[DQN run 5] frames= 110000 eps=0.05 train_ret= -10.70 eval_ret= -13.96 success=0% len=200
+[DQN run 2] frames= 110000 eps=0.05 train_ret=  49.49 eval_ret=  40.60 success=40% len=147
+[DQN run 3] frames= 110000 eps=0.05 train_ret=  36.46 eval_ret=  51.11 success=100% len=80
+[DQN run 1] frames= 110000 eps=0.05 train_ret= -31.40 eval_ret=   4.64 success=0% len=200
+[DQN run 0] frames= 110000 eps=0.05 train_ret=  51.25 eval_ret=  38.55 success=40% len=151
+[DQN run 4] frames= 120000 eps=0.05 train_ret=  22.60 eval_ret= -12.98 success=50% len=150
+[DQN run 5] frames= 120000 eps=0.05 train_ret= -13.50 eval_ret= -33.76 success=0% len=200
+[DQN run 2] frames= 120000 eps=0.05 train_ret=    nan eval_ret=  14.07 success=0% len=200
+[DQN run 3] frames= 120000 eps=0.05 train_ret=  23.30 eval_ret=   9.58 success=50% len=176
+[DQN run 0] frames= 120000 eps=0.05 train_ret=  49.90 eval_ret=  20.21 success=70% len=147
+[DQN run 1] frames= 120000 eps=0.05 train_ret=  22.30 eval_ret= -20.11 success=0% len=200
+[DQN run 4] frames= 130000 eps=0.05 train_ret=  56.65 eval_ret=  44.60 success=80% len=92
+[DQN run 5] frames= 130000 eps=0.05 train_ret= -54.80 eval_ret= -15.50 success=0% len=200
+[DQN run 3] frames= 130000 eps=0.05 train_ret=  13.30 eval_ret=  28.09 success=80% len=146
+[DQN run 2] frames= 130000 eps=0.05 train_ret=  27.90 eval_ret=  25.57 success=0% len=200
+[DQN run 0] frames= 130000 eps=0.05 train_ret=  53.33 eval_ret=  41.58 success=90% len=99
+[DQN run 1] frames= 130000 eps=0.05 train_ret=   9.20 eval_ret=   8.65 success=0% len=200
+[DQN run 4] frames= 140000 eps=0.05 train_ret= -15.00 eval_ret= -13.92 success=20% len=192
+[DQN run 3] frames= 140000 eps=0.05 train_ret=  57.66 eval_ret=  50.34 success=90% len=94
+[DQN run 5] frames= 140000 eps=0.05 train_ret= -12.80 eval_ret= -14.40 success=0% len=200
+[DQN run 2] frames= 140000 eps=0.05 train_ret=    nan eval_ret=  11.34 success=0% len=200
+[DQN run 0] frames= 140000 eps=0.05 train_ret=  46.44 eval_ret=  27.04 success=50% len=150
+[DQN run 1] frames= 140000 eps=0.05 train_ret= -31.90 eval_ret=   9.57 success=0% len=200
+[DQN run 4] frames= 150000 eps=0.05 train_ret=    nan eval_ret=  -5.73 success=0% len=200
+[DQN run 3] frames= 150000 eps=0.05 train_ret=    nan eval_ret=  47.00 success=90% len=91
+[DQN run 5] frames= 150000 eps=0.05 train_ret=  -6.60 eval_ret=  -9.76 success=0% len=200
+[DQN run 2] frames= 150000 eps=0.05 train_ret=    nan eval_ret=  13.42 success=0% len=200
+[DQN run 0] frames= 150000 eps=0.05 train_ret=  44.75 eval_ret=  48.93 success=100% len=75
+[DQN run 1] frames= 150000 eps=0.05 train_ret=   0.10 eval_ret=   7.48 success=0% len=200
+[DQN run 4] frames= 160000 eps=0.05 train_ret=  34.86 eval_ret= -14.52 success=0% len=200
+[DQN run 3] frames= 160000 eps=0.05 train_ret=  46.24 eval_ret=  53.23 success=100% len=75
+[DQN run 2] frames= 160000 eps=0.05 train_ret=    nan eval_ret=  15.14 success=0% len=200
+[DQN run 5] frames= 160000 eps=0.05 train_ret= -14.40 eval_ret= -12.48 success=0% len=200
+[DQN run 0] frames= 160000 eps=0.05 train_ret=  30.76 eval_ret=  35.82 success=90% len=110
+[DQN run 1] frames= 160000 eps=0.05 train_ret=  -7.70 eval_ret=  12.89 success=0% len=200
+[DQN run 4] frames= 170000 eps=0.05 train_ret=    nan eval_ret=  20.66 success=0% len=200
+[DQN run 3] frames= 170000 eps=0.05 train_ret=  43.75 eval_ret=  41.20 success=90% len=92
+[DQN run 2] frames= 170000 eps=0.05 train_ret=  33.67 eval_ret=  15.70 success=0% len=200
+[DQN run 5] frames= 170000 eps=0.05 train_ret= -18.20 eval_ret= -20.28 success=0% len=200
+[DQN run 0] frames= 170000 eps=0.05 train_ret=  59.56 eval_ret=  48.02 success=100% len=92
+[DQN run 4] frames= 180000 eps=0.05 train_ret=    nan eval_ret=  18.83 success=0% len=200
+[DQN run 1] frames= 170000 eps=0.05 train_ret=   4.20 eval_ret=   5.39 success=0% len=200
+[DQN run 3] frames= 180000 eps=0.05 train_ret=  52.98 eval_ret=  53.70 success=100% len=80
+[DQN run 2] frames= 180000 eps=0.05 train_ret=  43.43 eval_ret=  53.91 success=100% len=91
+[DQN run 5] frames= 180000 eps=0.05 train_ret= -22.80 eval_ret= -24.37 success=0% len=200
+[DQN run 0] frames= 180000 eps=0.05 train_ret=  52.36 eval_ret=  48.91 success=100% len=106
+[DQN run 4] frames= 190000 eps=0.05 train_ret=  -2.60 eval_ret=  21.88 success=0% len=200
+[DQN run 1] frames= 180000 eps=0.05 train_ret=   0.80 eval_ret=   5.17 success=0% len=200
+[DQN run 3] frames= 190000 eps=0.05 train_ret=  35.31 eval_ret=  14.35 success=60% len=175
+[DQN run 2] frames= 190000 eps=0.05 train_ret=  45.34 eval_ret=  54.96 success=100% len=68
+[DQN run 4] frames= 200000 eps=0.05 train_ret=    nan eval_ret=  28.86 success=0% len=200
+[DQN run 5] frames= 190000 eps=0.05 train_ret= -24.60 eval_ret= -15.76 success=0% len=200
+[DQN run 0] frames= 190000 eps=0.05 train_ret=  53.41 eval_ret= -46.15 success=40% len=166
+[DQN run 1] frames= 190000 eps=0.05 train_ret=   6.00 eval_ret=  12.08 success=0% len=200
+[DQN run 3] frames= 200000 eps=0.05 train_ret=  54.05 eval_ret=  26.23 success=60% len=138
+[DQN run 2] frames= 200000 eps=0.05 train_ret=  55.89 eval_ret=  44.28 success=100% len=87
+[DQN run 4] frames= 210000 eps=0.05 train_ret= -16.50 eval_ret=  32.75 success=20% len=190
+[DQN run 0] frames= 200000 eps=0.05 train_ret=    nan eval_ret=  39.86 success=90% len=111
+[DQN run 5] frames= 200000 eps=0.05 train_ret= -15.60 eval_ret= -19.20 success=0% len=200
+[DQN run 1] frames= 200000 eps=0.05 train_ret=  -7.80 eval_ret= -13.82 success=0% len=200
+[DQN run 3] frames= 210000 eps=0.05 train_ret=    nan eval_ret=  53.08 success=100% len=70
+[DQN run 2] frames= 210000 eps=0.05 train_ret=  48.08 eval_ret=  44.93 success=100% len=92
+[DQN run 4] frames= 220000 eps=0.05 train_ret= -19.00 eval_ret=  45.29 success=70% len=128
+[DQN run 0] frames= 210000 eps=0.05 train_ret=  49.23 eval_ret=  34.21 success=90% len=122
+[DQN run 5] frames= 210000 eps=0.05 train_ret= -46.80 eval_ret= -33.80 success=0% len=200
+[DQN run 1] frames= 210000 eps=0.05 train_ret=  14.20 eval_ret=   6.44 success=0% len=200
+[DQN run 3] frames= 220000 eps=0.05 train_ret=  18.75 eval_ret=  53.89 success=100% len=68
+[DQN run 4] frames= 230000 eps=0.05 train_ret=  33.62 eval_ret=  44.97 success=80% len=105
+[DQN run 2] frames= 220000 eps=0.05 train_ret=    nan eval_ret=  27.76 success=0% len=200
+[DQN run 0] frames= 220000 eps=0.05 train_ret=  42.76 eval_ret=  43.92 success=90% len=114
+[DQN run 5] frames= 220000 eps=0.05 train_ret= -26.20 eval_ret= -16.88 success=0% len=200
+[DQN run 1] frames= 220000 eps=0.05 train_ret= -22.20 eval_ret=   8.21 success=0% len=200
+[DQN run 4] frames= 240000 eps=0.05 train_ret=  49.16 eval_ret=  49.62 success=100% len=77
+[DQN run 3] frames= 230000 eps=0.05 train_ret=  49.39 eval_ret=  53.71 success=100% len=69
+[DQN run 2] frames= 230000 eps=0.05 train_ret=  49.30 eval_ret=  22.24 success=10% len=195
+[DQN run 0] frames= 230000 eps=0.05 train_ret=  48.12 eval_ret=  50.50 success=100% len=106
+[DQN run 5] frames= 230000 eps=0.05 train_ret= -16.40 eval_ret= -13.36 success=0% len=200
+[DQN run 1] frames= 230000 eps=0.05 train_ret=   9.10 eval_ret= -32.07 success=0% len=200
+[DQN run 4] frames= 250000 eps=0.05 train_ret=  41.48 eval_ret=  48.35 success=100% len=91
+[DQN run 3] frames= 240000 eps=0.05 train_ret=  41.80 eval_ret=  42.59 success=90% len=96
+[DQN run 2] frames= 240000 eps=0.05 train_ret=    nan eval_ret=  30.04 success=0% len=200
+[DQN run 0] frames= 240000 eps=0.05 train_ret=  40.38 eval_ret=  46.60 success=100% len=94
+[DQN run 5] frames= 240000 eps=0.05 train_ret= -29.50 eval_ret= -36.20 success=0% len=200
+[DQN run 1] frames= 240000 eps=0.05 train_ret=   7.30 eval_ret=   4.69 success=0% len=200
+[DQN run 4] frames= 260000 eps=0.05 train_ret=  48.05 eval_ret=  53.39 success=100% len=87
+[DQN run 3] frames= 250000 eps=0.05 train_ret=    nan eval_ret=  41.63 success=90% len=134
+[DQN run 0] frames= 250000 eps=0.05 train_ret= -57.00 eval_ret=  42.17 success=100% len=98
+[DQN run 2] frames= 250000 eps=0.05 train_ret=  38.10 eval_ret=  19.21 success=0% len=200
+[DQN run 5] frames= 250000 eps=0.05 train_ret= -23.80 eval_ret= -27.14 success=0% len=200
+[DQN run 1] frames= 250000 eps=0.05 train_ret= -12.60 eval_ret= -27.73 success=0% len=200
+[DQN run 4] frames= 270000 eps=0.05 train_ret=  29.63 eval_ret=  40.15 success=80% len=117
+[DQN run 3] frames= 260000 eps=0.05 train_ret=    nan eval_ret=  44.31 success=100% len=92
+[DQN run 0] frames= 260000 eps=0.05 train_ret=  53.59 eval_ret=  37.39 success=80% len=124
+[DQN run 2] frames= 260000 eps=0.05 train_ret=    nan eval_ret=  54.03 success=100% len=86
+[DQN run 5] frames= 260000 eps=0.05 train_ret= -16.70 eval_ret= -12.34 success=0% len=200
+[DQN run 1] frames= 260000 eps=0.05 train_ret=  -1.60 eval_ret=   0.81 success=0% len=200
+[DQN run 4] frames= 280000 eps=0.05 train_ret=  50.66 eval_ret=  47.51 success=90% len=99
+[DQN run 3] frames= 270000 eps=0.05 train_ret=  41.35 eval_ret=  53.69 success=100% len=79
+[DQN run 0] frames= 270000 eps=0.05 train_ret= -31.20 eval_ret=  50.64 success=100% len=79
+[DQN run 2] frames= 270000 eps=0.05 train_ret=  48.98 eval_ret=  38.51 success=80% len=101
+[DQN run 5] frames= 270000 eps=0.05 train_ret= -25.60 eval_ret= -14.00 success=0% len=200
+[DQN run 1] frames= 270000 eps=0.05 train_ret=  -0.30 eval_ret=   8.03 success=0% len=200
+[DQN run 4] frames= 290000 eps=0.05 train_ret=  48.35 eval_ret=   4.55 success=30% len=184
+[DQN run 3] frames= 280000 eps=0.05 train_ret=  54.75 eval_ret=  52.21 success=100% len=102
+[DQN run 0] frames= 280000 eps=0.05 train_ret=  44.11 eval_ret=  39.18 success=90% len=87
+[DQN run 2] frames= 280000 eps=0.05 train_ret=  44.36 eval_ret=  46.39 success=80% len=94
+[DQN run 5] frames= 280000 eps=0.05 train_ret= -16.70 eval_ret=-103.60 success=0% len=200
+[DQN run 4] frames= 300000 eps=0.05 train_ret=  32.02 eval_ret=  42.33 success=100% len=103
+[DQN run 1] frames= 280000 eps=0.05 train_ret= -40.10 eval_ret= -44.13 success=0% len=200
+DONE dqn run 4: return=51.40 success=96% (273s)
+[DQN run 4] FINAL eval_return=51.40 success=96%
+[92m2026-11-25 00:26:27,688 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[DQN run 3] frames= 290000 eps=0.05 train_ret=  49.16 eval_ret=  54.07 success=100% len=75
+[DQN run 0] frames= 290000 eps=0.05 train_ret=  40.23 eval_ret=  34.99 success=70% len=167
+[DQN run 2] frames= 290000 eps=0.05 train_ret=  53.61 eval_ret=  53.16 success=100% len=71
+[DQN run 5] frames= 290000 eps=0.05 train_ret= -29.70 eval_ret= -14.42 success=0% len=200
+[DQN run 1] frames= 290000 eps=0.05 train_ret= -11.20 eval_ret=   1.80 success=0% len=200
+[DQN run 6] frames=  10000 eps=0.90 train_ret= -43.50 eval_ret= -13.49 success=0% len=200
+[DQN run 3] frames= 300000 eps=0.05 train_ret=  57.71 eval_ret=  51.00 success=100% len=76
+DONE dqn run 3: return=47.97 success=92% (284s)
+[DQN run 3] FINAL eval_return=47.97 success=92%
+[92m2026-11-25 00:26:39,099 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[DQN run 2] frames= 300000 eps=0.05 train_ret=  49.71 eval_ret=  54.82 success=100% len=71
+[DQN run 0] frames= 300000 eps=0.05 train_ret=  -8.60 eval_ret=  51.32 success=100% len=109
+DONE dqn run 2: return=53.46 success=100% (286s)
+[DQN run 2] FINAL eval_return=53.46 success=100%
+[92m2026-11-25 00:26:40,247 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+DONE dqn run 0: return=41.05 success=86% (286s)
+[DQN run 0] FINAL eval_return=41.05 success=86%
+[92m2026-11-25 00:26:41,130 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([50000]) shape[92m [END][0m
+[DQN run 5] frames= 300000 eps=0.05 train_ret= -25.40 eval_ret= -19.20 success=0% len=200
+[DQN run 1] frames= 300000 eps=0.05 train_ret=  -1.10 eval_ret=   9.71 success=0% len=200
+[DQN run 6] frames=  20000 eps=0.77 train_ret= -23.70 eval_ret=   7.93 success=0% len=200
+DONE dqn run 5: return=2.22 success=0% (288s)
+[DQN run 7] frames=  10000 eps=0.90 train_ret= -53.60 eval_ret= -28.83 success=0% len=200
+DONE dqn run 1: return=12.23 success=0% (291s)
+[DQN run 8] frames=  10000 eps=0.96 train_ret= -71.70 eval_ret= -56.79 success=0% len=200
+[DQN run 9] frames=  10000 eps=0.90 train_ret= -54.70 eval_ret= -40.15 success=0% len=200
+[DQN run 6] frames=  30000 eps=0.64 train_ret= -22.10 eval_ret=  -2.62 success=0% len=200
+[DQN run 7] frames=  20000 eps=0.77 train_ret= -43.30 eval_ret=  -6.54 success=0% len=200
+[DQN run 5] FINAL eval_return=2.22 success=0%
+[REINFORCE run 0] frames=  20000 train_ret= -35.98 eval_ret= -19.20 success=0% len=200 entropy=1.781
+[DQN run 8] frames=  20000 eps=0.91 train_ret= -56.70 eval_ret= -60.93 success=0% len=200
+[DQN run 9] frames=  20000 eps=0.77 train_ret= -32.70 eval_ret=  -8.13 success=0% len=200
+[DQN run 1] FINAL eval_return=12.23 success=0%
+[REINFORCE run 1] frames=  20000 train_ret= -19.42 eval_ret= -19.20 success=0% len=200 entropy=0.913
+[DQN run 6] frames=  40000 eps=0.52 train_ret= -22.60 eval_ret= -15.60 success=0% len=200
+[DQN run 7] frames=  30000 eps=0.64 train_ret= -29.80 eval_ret= -17.90 success=0% len=200
+[DQN run 8] frames=  30000 eps=0.86 train_ret= -34.50 eval_ret= -19.56 success=0% len=200
+[REINFORCE run 0] frames=  40000 train_ret= -26.52 eval_ret= -19.20 success=0% len=200 entropy=1.461
+[DQN run 9] frames=  30000 eps=0.64 train_ret= -11.20 eval_ret= -13.98 success=0% len=200
+[REINFORCE run 1] frames=  40000 train_ret= -20.78 eval_ret= -19.20 success=0% len=200 entropy=0.662
+[DQN run 6] frames=  50000 eps=0.39 train_ret= -35.40 eval_ret=   1.64 success=0% len=200
+[DQN run 7] frames=  40000 eps=0.52 train_ret= -34.30 eval_ret=   7.79 success=0% len=200
+[DQN run 8] frames=  40000 eps=0.81 train_ret= -48.80 eval_ret=  -3.50 success=0% len=200
+[DQN run 9] frames=  40000 eps=0.52 train_ret=  -6.30 eval_ret=  -3.93 success=0% len=200
+[REINFORCE run 0] frames=  60000 train_ret= -23.52 eval_ret= -19.20 success=0% len=200 entropy=1.414
+[DQN run 6] frames=  60000 eps=0.26 train_ret= -14.90 eval_ret=  -2.12 success=0% len=200
+[REINFORCE run 1] frames=  60000 train_ret= -18.92 eval_ret= -19.40 success=0% len=200 entropy=0.661
+[DQN run 7] frames=  50000 eps=0.39 train_ret=   1.30 eval_ret=  12.77 success=0% len=200
+[DQN run 9] frames=  50000 eps=0.39 train_ret=   3.60 eval_ret=  12.03 success=0% len=200
+[DQN run 8] frames=  50000 eps=0.76 train_ret= -39.20 eval_ret=  -2.45 success=0% len=200
+[REINFORCE run 0] frames=  80000 train_ret= -20.28 eval_ret= -19.20 success=0% len=200 entropy=1.370
+[DQN run 6] frames=  70000 eps=0.14 train_ret=  -6.70 eval_ret=  -4.92 success=0% len=200
+[REINFORCE run 1] frames=  80000 train_ret= -15.50 eval_ret= -19.20 success=0% len=200 entropy=0.868
+[DQN run 7] frames=  60000 eps=0.26 train_ret=  -5.60 eval_ret=   6.77 success=0% len=200
+[DQN run 9] frames=  60000 eps=0.26 train_ret=  -4.60 eval_ret= -17.67 success=0% len=200
+[DQN run 8] frames=  60000 eps=0.71 train_ret= -33.90 eval_ret= -12.06 success=0% len=200
+[DQN run 6] frames=  80000 eps=0.05 train_ret= -15.60 eval_ret=  -8.92 success=0% len=200
+[REINFORCE run 0] frames= 100000 train_ret= -16.36 eval_ret= -19.20 success=0% len=200 entropy=1.119
+[DQN run 7] frames=  70000 eps=0.14 train_ret=  -2.90 eval_ret=   6.05 success=0% len=200
+[DQN run 9] frames=  70000 eps=0.14 train_ret=   0.10 eval_ret=  11.90 success=0% len=200
+[REINFORCE run 1] frames= 100000 train_ret= -16.78 eval_ret= -19.20 success=0% len=200 entropy=0.940
+[DQN run 8] frames=  70000 eps=0.66 train_ret= -28.30 eval_ret=  -6.37 success=0% len=200
+[DQN run 6] frames=  90000 eps=0.05 train_ret= -26.20 eval_ret= -19.00 success=0% len=200
+[DQN run 7] frames=  80000 eps=0.05 train_ret=  -1.80 eval_ret=  14.11 success=0% len=200
+[REINFORCE run 0] frames= 120000 train_ret= -17.52 eval_ret= -19.20 success=0% len=200 entropy=1.201
+[DQN run 9] frames=  80000 eps=0.05 train_ret=   4.90 eval_ret=  -4.31 success=0% len=200
+[DQN run 8] frames=  80000 eps=0.61 train_ret= -29.40 eval_ret=   4.31 success=0% len=200
+[REINFORCE run 1] frames= 120000 train_ret= -10.52 eval_ret= -15.76 success=0% len=200 entropy=1.056
+[DQN run 6] frames= 100000 eps=0.05 train_ret= -19.20 eval_ret= -14.48 success=0% len=200
+[DQN run 7] frames=  90000 eps=0.05 train_ret=  20.90 eval_ret=   9.57 success=0% len=200
+[DQN run 9] frames=  90000 eps=0.05 train_ret=  21.00 eval_ret=  14.68 success=0% len=200
+[DQN run 8] frames=  90000 eps=0.56 train_ret=  -5.60 eval_ret=   9.84 success=0% len=200
+[REINFORCE run 0] frames= 140000 train_ret= -16.26 eval_ret= -19.20 success=0% len=200 entropy=1.274
+[REINFORCE run 1] frames= 140000 train_ret= -17.40 eval_ret= -19.20 success=0% len=200 entropy=0.917
+[DQN run 6] frames= 110000 eps=0.05 train_ret= -14.90 eval_ret=  -3.48 success=0% len=200
+[DQN run 7] frames= 100000 eps=0.05 train_ret=  17.30 eval_ret=  14.85 success=0% len=200
+[DQN run 9] frames= 100000 eps=0.05 train_ret=  23.80 eval_ret=   7.40 success=0% len=200
+[DQN run 8] frames= 100000 eps=0.51 train_ret= -13.90 eval_ret=   7.41 success=0% len=200
+[REINFORCE run 0] frames= 160000 train_ret=  -6.76 eval_ret= -19.20 success=0% len=200 entropy=1.421
+[DQN run 6] frames= 120000 eps=0.05 train_ret= -21.30 eval_ret= -19.20 success=0% len=200
+[REINFORCE run 1] frames= 160000 train_ret=  -6.00 eval_ret= -19.20 success=0% len=200 entropy=0.970
+[DQN run 7] frames= 110000 eps=0.05 train_ret=  -0.40 eval_ret=   9.26 success=0% len=200
+[DQN run 9] frames= 110000 eps=0.05 train_ret=  11.20 eval_ret=   8.38 success=0% len=200
+[DQN run 8] frames= 110000 eps=0.46 train_ret= -18.40 eval_ret=   5.35 success=0% len=200
+[DQN run 6] frames= 130000 eps=0.05 train_ret=  -1.80 eval_ret=   0.06 success=0% len=200
+[REINFORCE run 0] frames= 180000 train_ret=  -1.96 eval_ret= -38.23 success=0% len=200 entropy=1.309
+[REINFORCE run 1] frames= 180000 train_ret=   0.30 eval_ret= -19.20 success=0% len=200 entropy=0.810
+[DQN run 9] frames= 120000 eps=0.05 train_ret=  -7.30 eval_ret=  12.56 success=0% len=200
+[DQN run 7] frames= 120000 eps=0.05 train_ret=  24.10 eval_ret=  12.98 success=0% len=200
+[DQN run 8] frames= 120000 eps=0.41 train_ret=  -7.10 eval_ret=  10.19 success=0% len=200
+[DQN run 6] frames= 140000 eps=0.05 train_ret= -28.80 eval_ret= -12.94 success=0% len=200
+[REINFORCE run 0] frames= 200000 train_ret=   2.40 eval_ret= -54.78 success=0% len=200 entropy=1.183
+[DQN run 9] frames= 130000 eps=0.05 train_ret= -23.20 eval_ret=  14.80 success=0% len=200
+[DQN run 7] frames= 130000 eps=0.05 train_ret=  14.20 eval_ret=  11.48 success=0% len=200
+[DQN run 8] frames= 130000 eps=0.36 train_ret=  -0.20 eval_ret=  11.62 success=0% len=200
+[REINFORCE run 1] frames= 200000 train_ret=   4.68 eval_ret= -21.42 success=0% len=200 entropy=0.917
+[DQN run 6] frames= 150000 eps=0.05 train_ret= -18.10 eval_ret= -10.60 success=0% len=200
+[DQN run 9] frames= 140000 eps=0.05 train_ret=   9.80 eval_ret=  13.32 success=0% len=200
+[REINFORCE run 0] frames= 220000 train_ret=   5.20 eval_ret= -52.23 success=0% len=200 entropy=1.102
+[DQN run 7] frames= 140000 eps=0.05 train_ret=  12.20 eval_ret=  13.39 success=0% len=200
+[DQN run 8] frames= 140000 eps=0.31 train_ret=  -1.90 eval_ret=   8.86 success=0% len=200
+[REINFORCE run 1] frames= 220000 train_ret=  10.96 eval_ret=   4.57 success=0% len=200 entropy=0.782
+[DQN run 6] frames= 160000 eps=0.05 train_ret= -15.60 eval_ret= -11.17 success=0% len=200
+[DQN run 9] frames= 150000 eps=0.05 train_ret= -21.60 eval_ret=   8.80 success=0% len=200
+[DQN run 7] frames= 150000 eps=0.05 train_ret=  11.60 eval_ret=  10.50 success=0% len=200
+[DQN run 8] frames= 150000 eps=0.26 train_ret=  -2.40 eval_ret=  12.72 success=0% len=200
+[REINFORCE run 0] frames= 240000 train_ret=   7.88 eval_ret=  -8.56 success=0% len=200 entropy=1.025
+[DQN run 6] frames= 170000 eps=0.05 train_ret= -19.10 eval_ret= -19.10 success=0% len=200
+[REINFORCE run 1] frames= 240000 train_ret=   2.38 eval_ret= -13.00 success=0% len=200 entropy=0.769
+[DQN run 9] frames= 160000 eps=0.05 train_ret=   7.80 eval_ret=   1.94 success=0% len=200
+[DQN run 7] frames= 160000 eps=0.05 train_ret=  -5.40 eval_ret=  15.32 success=0% len=200
+[DQN run 8] frames= 160000 eps=0.21 train_ret=  -7.90 eval_ret=   3.44 success=0% len=200
+[REINFORCE run 0] frames= 260000 train_ret=   0.12 eval_ret=   5.95 success=0% len=200 entropy=1.236
+[DQN run 6] frames= 180000 eps=0.05 train_ret=  -9.30 eval_ret=  -2.46 success=0% len=200
+[REINFORCE run 1] frames= 260000 train_ret=   8.00 eval_ret= -33.02 success=0% len=200 entropy=0.588
+[DQN run 9] frames= 170000 eps=0.05 train_ret=   8.40 eval_ret=  11.58 success=0% len=200
+[DQN run 7] frames= 170000 eps=0.05 train_ret=  11.40 eval_ret=  12.29 success=0% len=200
+[DQN run 8] frames= 170000 eps=0.16 train_ret=   3.80 eval_ret=  11.90 success=0% len=200
+[DQN run 6] frames= 190000 eps=0.05 train_ret=  -7.60 eval_ret=   1.43 success=0% len=200
+[REINFORCE run 0] frames= 280000 train_ret=   0.98 eval_ret= -69.48 success=0% len=200 entropy=1.227
+[DQN run 9] frames= 180000 eps=0.05 train_ret=  23.80 eval_ret=   8.51 success=0% len=200
+[DQN run 7] frames= 180000 eps=0.05 train_ret=   1.20 eval_ret=  11.05 success=0% len=200
+[REINFORCE run 1] frames= 280000 train_ret=  -1.26 eval_ret= -51.84 success=0% len=200 entropy=0.891
+[DQN run 8] frames= 180000 eps=0.11 train_ret=  11.40 eval_ret=  13.25 success=0% len=200
+[DQN run 6] frames= 200000 eps=0.05 train_ret=  -6.70 eval_ret= -12.01 success=0% len=200
+[DQN run 9] frames= 190000 eps=0.05 train_ret=   7.60 eval_ret=  13.90 success=0% len=200
+[REINFORCE run 0] frames= 300000 train_ret=   7.42 eval_ret= -13.06 success=0% len=200 entropy=1.092
+[DQN run 7] frames= 190000 eps=0.05 train_ret=  16.20 eval_ret=  15.72 success=0% len=200
+[DQN run 8] frames= 190000 eps=0.10 train_ret=  13.40 eval_ret=  14.97 success=0% len=200
+[REINFORCE run 1] frames= 300000 train_ret=   8.74 eval_ret=   7.17 success=0% len=200 entropy=0.498
+DONE reinforce run 0: return=7.00 success=0% (159s)
+[DQN run 6] frames= 210000 eps=0.05 train_ret= -14.90 eval_ret=  -7.67 success=0% len=200
+DONE reinforce run 1: return=5.47 success=0% (159s)
+[DQN run 9] frames= 200000 eps=0.05 train_ret= -37.30 eval_ret=  14.72 success=0% len=200
+[DQN run 7] frames= 200000 eps=0.05 train_ret=  -5.80 eval_ret=   7.92 success=0% len=200
+[DQN run 8] frames= 200000 eps=0.10 train_ret=  -5.00 eval_ret=  14.58 success=0% len=200
+[DQN run 6] frames= 220000 eps=0.05 train_ret= -15.70 eval_ret=  -7.10 success=0% len=200
+[REINFORCE run 0] FINAL eval_return=7.00 success=0%
+[REINFORCE run 2] frames=  20000 train_ret= -53.90 eval_ret= -78.60 success=0% len=200 entropy=2.048
+[DQN run 9] frames= 210000 eps=0.05 train_ret=  15.60 eval_ret= -33.01 success=0% len=200
+[REINFORCE run 1] FINAL eval_return=5.47 success=0%
+[REINFORCE run 3] frames=  20000 train_ret= -33.04 eval_ret= -76.90 success=0% len=200 entropy=1.701
+[DQN run 7] frames= 210000 eps=0.05 train_ret=  15.60 eval_ret=  15.27 success=0% len=200
+[DQN run 8] frames= 210000 eps=0.10 train_ret=  10.50 eval_ret=  11.22 success=0% len=200
+[DQN run 6] frames= 230000 eps=0.05 train_ret=  -4.50 eval_ret=  -5.12 success=0% len=200
+[REINFORCE run 2] frames=  40000 train_ret= -51.58 eval_ret= -76.10 success=0% len=200 entropy=1.995
+[DQN run 9] frames= 220000 eps=0.05 train_ret=  -1.00 eval_ret=  13.30 success=0% len=200
+[DQN run 7] frames= 220000 eps=0.05 train_ret= -14.80 eval_ret=  14.80 success=0% len=200
+[DQN run 8] frames= 220000 eps=0.10 train_ret=  11.80 eval_ret=  15.05 success=0% len=200
+[REINFORCE run 3] frames=  40000 train_ret= -28.74 eval_ret= -19.20 success=0% len=200 entropy=1.499
+[DQN run 6] frames= 240000 eps=0.05 train_ret=  -3.50 eval_ret=   2.46 success=0% len=200
+[DQN run 9] frames= 230000 eps=0.05 train_ret=  13.80 eval_ret=  13.27 success=0% len=200
+[REINFORCE run 2] frames=  60000 train_ret= -42.38 eval_ret= -19.10 success=0% len=200 entropy=1.869
+[DQN run 7] frames= 230000 eps=0.05 train_ret=  20.60 eval_ret= -45.98 success=0% len=200
+[DQN run 8] frames= 230000 eps=0.10 train_ret=  17.80 eval_ret=  15.01 success=0% len=200
+[DQN run 6] frames= 250000 eps=0.05 train_ret=   8.40 eval_ret=   5.27 success=0% len=200
+[REINFORCE run 3] frames=  60000 train_ret= -20.28 eval_ret= -19.20 success=0% len=200 entropy=1.410
+[DQN run 9] frames= 240000 eps=0.05 train_ret=   7.20 eval_ret=  13.58 success=0% len=200
+[DQN run 7] frames= 240000 eps=0.05 train_ret=  14.80 eval_ret=  13.86 success=0% len=200
+[DQN run 8] frames= 240000 eps=0.10 train_ret=  14.20 eval_ret=  14.01 success=0% len=200
+[REINFORCE run 2] frames=  80000 train_ret= -31.14 eval_ret= -19.20 success=0% len=200 entropy=1.753
+[DQN run 6] frames= 260000 eps=0.05 train_ret=   1.20 eval_ret=  -2.72 success=0% len=200
+[REINFORCE run 3] frames=  80000 train_ret= -18.62 eval_ret= -19.20 success=0% len=200 entropy=1.298
+[DQN run 9] frames= 250000 eps=0.05 train_ret=   4.40 eval_ret=  11.26 success=0% len=200
+[DQN run 7] frames= 250000 eps=0.05 train_ret= -10.00 eval_ret=  13.40 success=0% len=200
+[DQN run 8] frames= 250000 eps=0.10 train_ret=  -6.00 eval_ret=  -5.04 success=0% len=200
+[DQN run 6] frames= 270000 eps=0.05 train_ret=   8.20 eval_ret= -10.47 success=0% len=200
+[REINFORCE run 2] frames= 100000 train_ret= -30.28 eval_ret= -19.20 success=0% len=200 entropy=1.643
+[DQN run 9] frames= 260000 eps=0.05 train_ret=   3.00 eval_ret=   1.78 success=0% len=200
+[REINFORCE run 3] frames= 100000 train_ret= -14.82 eval_ret= -19.20 success=0% len=200 entropy=1.237
+[DQN run 8] frames= 260000 eps=0.10 train_ret=   0.10 eval_ret=  12.21 success=0% len=200
+[DQN run 7] frames= 260000 eps=0.05 train_ret=   2.60 eval_ret=  12.74 success=0% len=200
+[DQN run 6] frames= 280000 eps=0.05 train_ret=  -9.90 eval_ret=   2.76 success=0% len=200
+[REINFORCE run 2] frames= 120000 train_ret= -25.70 eval_ret= -19.20 success=0% len=200 entropy=1.546
+[DQN run 9] frames= 270000 eps=0.05 train_ret=  18.60 eval_ret=  15.36 success=0% len=200
+[REINFORCE run 3] frames= 120000 train_ret=  -6.38 eval_ret= -19.20 success=0% len=200 entropy=1.236
+[DQN run 8] frames= 270000 eps=0.10 train_ret=  15.60 eval_ret=   8.28 success=0% len=200
+[DQN run 7] frames= 270000 eps=0.05 train_ret=  19.20 eval_ret=   9.01 success=0% len=200
+[DQN run 6] frames= 290000 eps=0.05 train_ret= -11.20 eval_ret=   1.42 success=0% len=200
+[DQN run 9] frames= 280000 eps=0.05 train_ret=   5.00 eval_ret=  14.35 success=0% len=200
+[REINFORCE run 2] frames= 140000 train_ret= -24.82 eval_ret= -19.20 success=0% len=200 entropy=1.392
+[DQN run 8] frames= 280000 eps=0.10 train_ret=  -6.20 eval_ret=  11.26 success=0% len=200
+[DQN run 7] frames= 280000 eps=0.05 train_ret=  -2.60 eval_ret=  15.52 success=0% len=200
+[REINFORCE run 3] frames= 140000 train_ret=   5.56 eval_ret= -13.06 success=0% len=200 entropy=1.213
+[DQN run 6] frames= 300000 eps=0.05 train_ret=   8.90 eval_ret=   5.29 success=0% len=200
+[DQN run 9] frames= 290000 eps=0.05 train_ret=  15.00 eval_ret=  13.51 success=0% len=200
+DONE dqn run 6: return=1.51 success=0% (258s)
+[REINFORCE run 2] frames= 160000 train_ret= -21.88 eval_ret= -19.20 success=0% len=200 entropy=1.390
+[DQN run 8] frames= 290000 eps=0.10 train_ret=  -1.40 eval_ret=  13.64 success=0% len=200
+[DQN run 7] frames= 290000 eps=0.05 train_ret=   8.00 eval_ret=   1.34 success=0% len=200
+[REINFORCE run 3] frames= 160000 train_ret=   8.76 eval_ret=  -1.45 success=0% len=200 entropy=1.076
+[DQN run 9] frames= 300000 eps=0.05 train_ret=   9.40 eval_ret= -10.06 success=0% len=200
+[DQN run 6] FINAL eval_return=1.51 success=0%
+[REINFORCE run 4] frames=  20000 train_ret= -31.72 eval_ret= -19.20 success=0% len=200 entropy=1.766
+DONE dqn run 9: return=14.70 success=0% (256s)
+[DQN run 8] frames= 300000 eps=0.10 train_ret=   3.70 eval_ret=  12.26 success=0% len=200
+[DQN run 7] frames= 300000 eps=0.05 train_ret=   9.20 eval_ret=   9.76 success=0% len=200
+[REINFORCE run 2] frames= 180000 train_ret= -18.30 eval_ret= -19.20 success=0% len=200 entropy=1.338
+DONE dqn run 8: return=14.39 success=0% (261s)
+DONE dqn run 7: return=11.82 success=0% (262s)
+[REINFORCE run 3] frames= 180000 train_ret=   7.16 eval_ret=  13.54 success=0% len=200 entropy=1.099
+[REINFORCE run 4] frames=  40000 train_ret= -23.92 eval_ret= -19.20 success=0% len=200 entropy=1.359
+[DQN run 9] FINAL eval_return=14.70 success=0%
+[REINFORCE run 5] frames=  20000 train_ret= -57.74 eval_ret= -78.60 success=0% len=200 entropy=2.051
+[REINFORCE run 2] frames= 200000 train_ret= -21.32 eval_ret= -19.20 success=0% len=200 entropy=1.307
+[DQN run 8] FINAL eval_return=14.39 success=0%
+[REINFORCE run 6] frames=  20000 train_ret= -34.92 eval_ret= -19.20 success=0% len=200 entropy=1.782
+[DQN run 7] FINAL eval_return=11.82 success=0%
+[REINFORCE run 7] frames=  20000 train_ret= -37.66 eval_ret= -19.00 success=0% len=200 entropy=1.833
+[REINFORCE run 3] frames= 200000 train_ret=  12.60 eval_ret=  13.54 success=0% len=200 entropy=0.960
+[REINFORCE run 4] frames=  60000 train_ret= -19.58 eval_ret= -19.20 success=0% len=200 entropy=1.329
+[REINFORCE run 5] frames=  40000 train_ret= -54.14 eval_ret= -79.20 success=0% len=200 entropy=2.024
+[REINFORCE run 2] frames= 220000 train_ret= -17.66 eval_ret= -19.20 success=0% len=200 entropy=1.279
+[REINFORCE run 6] frames=  40000 train_ret= -27.26 eval_ret= -19.20 success=0% len=200 entropy=1.426
+[REINFORCE run 7] frames=  40000 train_ret= -28.48 eval_ret= -19.20 success=0% len=200 entropy=1.599
+[REINFORCE run 3] frames= 220000 train_ret=  16.80 eval_ret=  13.54 success=0% len=200 entropy=0.843
+[REINFORCE run 4] frames=  80000 train_ret= -20.48 eval_ret= -19.20 success=0% len=200 entropy=1.359
+[REINFORCE run 5] frames=  60000 train_ret= -44.72 eval_ret= -76.90 success=0% len=200 entropy=1.939
+[REINFORCE run 2] frames= 240000 train_ret= -16.72 eval_ret= -19.20 success=0% len=200 entropy=1.296
+[REINFORCE run 6] frames=  60000 train_ret= -22.00 eval_ret= -19.40 success=0% len=200 entropy=1.285
+[REINFORCE run 7] frames=  60000 train_ret= -28.88 eval_ret= -19.20 success=0% len=200 entropy=1.670
+[REINFORCE run 3] frames= 240000 train_ret=  45.56 eval_ret=  12.30 success=0% len=200 entropy=0.713
+[REINFORCE run 4] frames= 100000 train_ret= -15.24 eval_ret= -19.20 success=0% len=200 entropy=1.181
+[REINFORCE run 5] frames=  80000 train_ret= -39.36 eval_ret= -19.20 success=0% len=200 entropy=1.872
+[REINFORCE run 2] frames= 260000 train_ret= -13.14 eval_ret= -19.20 success=0% len=200 entropy=1.276
+[REINFORCE run 6] frames=  80000 train_ret= -20.84 eval_ret= -19.20 success=0% len=200 entropy=1.249
+[REINFORCE run 7] frames=  80000 train_ret= -15.52 eval_ret= -19.00 success=0% len=200 entropy=1.736
+[REINFORCE run 3] frames= 260000 train_ret=  47.27 eval_ret=  51.23 success=100% len=64 entropy=0.468
+[REINFORCE run 4] frames= 120000 train_ret= -13.24 eval_ret= -19.20 success=0% len=200 entropy=1.218
+[REINFORCE run 5] frames= 100000 train_ret= -44.28 eval_ret= -79.20 success=0% len=200 entropy=1.665
+[REINFORCE run 2] frames= 280000 train_ret= -13.92 eval_ret= -19.20 success=0% len=200 entropy=1.271
+[REINFORCE run 6] frames= 100000 train_ret= -17.80 eval_ret= -19.20 success=0% len=200 entropy=0.960
+[REINFORCE run 7] frames= 100000 train_ret= -13.82 eval_ret= -89.40 success=0% len=200 entropy=1.708
+[REINFORCE run 3] frames= 280000 train_ret=  47.55 eval_ret=  51.23 success=100% len=64 entropy=0.229
+[REINFORCE run 4] frames= 140000 train_ret= -12.08 eval_ret= -19.20 success=0% len=200 entropy=1.115
+[REINFORCE run 5] frames= 120000 train_ret= -27.34 eval_ret= -19.20 success=0% len=200 entropy=1.531
+[REINFORCE run 2] frames= 300000 train_ret= -13.46 eval_ret= -19.20 success=0% len=200 entropy=1.277
+[REINFORCE run 6] frames= 120000 train_ret= -18.00 eval_ret= -19.20 success=0% len=200 entropy=0.879
+[REINFORCE run 3] frames= 300000 train_ret=  45.80 eval_ret=  51.23 success=100% len=64 entropy=0.153
+[REINFORCE run 7] frames= 120000 train_ret=  -8.68 eval_ret= -52.21 success=0% len=200 entropy=1.589
+DONE reinforce run 2: return=-18.54 success=0% (159s)
+DONE reinforce run 3: return=49.57 success=100% (159s)
+[REINFORCE run 5] frames= 140000 train_ret= -26.78 eval_ret= -19.20 success=0% len=200 entropy=1.438
+[REINFORCE run 4] frames= 160000 train_ret=  -5.72 eval_ret= -19.20 success=0% len=200 entropy=1.366
+[REINFORCE run 6] frames= 140000 train_ret= -19.44 eval_ret= -19.20 success=0% len=200 entropy=0.797
+[REINFORCE run 2] FINAL eval_return=-18.54 success=0%
+[REINFORCE run 8] frames=  18000 train_ret= -54.58 eval_ret= -78.60 success=0% len=200 entropy=2.046
+[REINFORCE run 7] frames= 140000 train_ret=  -5.10 eval_ret= -62.35 success=0% len=200 entropy=1.570
+[REINFORCE run 3] FINAL eval_return=49.57 success=100%
+[REINFORCE run 9] frames=  20000 train_ret= -28.98 eval_ret= -19.20 success=0% len=200 entropy=1.584
+[REINFORCE run 4] frames= 180000 train_ret=  -5.74 eval_ret= -19.20 success=0% len=200 entropy=1.280
+[REINFORCE run 5] frames= 160000 train_ret= -27.08 eval_ret= -42.80 success=0% len=200 entropy=1.347
+[REINFORCE run 6] frames= 160000 train_ret= -15.48 eval_ret= -19.20 success=0% len=200 entropy=0.880
+[REINFORCE run 8] frames=  36000 train_ret= -44.01 eval_ret= -19.10 success=0% len=200 entropy=1.929
+[REINFORCE run 7] frames= 160000 train_ret=  -5.32 eval_ret= -43.11 success=0% len=200 entropy=1.573
+[REINFORCE run 9] frames=  40000 train_ret= -27.64 eval_ret= -19.20 success=0% len=200 entropy=1.343
+[REINFORCE run 4] frames= 200000 train_ret=  -5.66 eval_ret= -19.20 success=0% len=200 entropy=1.346
+[REINFORCE run 5] frames= 180000 train_ret= -19.14 eval_ret= -19.20 success=0% len=200 entropy=1.169
+[REINFORCE run 8] frames=  54000 train_ret= -34.19 eval_ret= -19.20 success=0% len=200 entropy=1.758
+[REINFORCE run 6] frames= 180000 train_ret= -11.22 eval_ret= -19.20 success=0% len=200 entropy=0.899
+[REINFORCE run 7] frames= 180000 train_ret=  -1.00 eval_ret=  12.73 success=0% len=200 entropy=1.486
+[REINFORCE run 9] frames=  60000 train_ret= -27.92 eval_ret= -37.80 success=0% len=200 entropy=0.969
+[REINFORCE run 4] frames= 220000 train_ret=  -5.48 eval_ret= -27.04 success=0% len=200 entropy=1.124
+[REINFORCE run 5] frames= 200000 train_ret= -27.84 eval_ret= -19.40 success=0% len=200 entropy=1.249
+[REINFORCE run 8] frames=  72000 train_ret= -27.95 eval_ret= -19.20 success=0% len=200 entropy=1.576
+[REINFORCE run 6] frames= 200000 train_ret= -12.44 eval_ret= -19.20 success=0% len=200 entropy=0.974
+[REINFORCE run 7] frames= 200000 train_ret=   4.08 eval_ret=  12.80 success=0% len=200 entropy=1.440
+[REINFORCE run 9] frames=  80000 train_ret= -19.50 eval_ret= -19.20 success=0% len=200 entropy=1.244
+[REINFORCE run 5] frames= 220000 train_ret= -26.10 eval_ret= -19.20 success=0% len=200 entropy=1.346
+[REINFORCE run 4] frames= 240000 train_ret=   3.82 eval_ret= -19.20 success=0% len=200 entropy=1.047
+[REINFORCE run 8] frames=  90000 train_ret= -22.18 eval_ret= -19.20 success=0% len=200 entropy=1.462
+[REINFORCE run 6] frames= 220000 train_ret=  -7.78 eval_ret= -19.20 success=0% len=200 entropy=1.191
+[REINFORCE run 7] frames= 220000 train_ret=   2.30 eval_ret=  13.54 success=0% len=200 entropy=1.462
+[REINFORCE run 9] frames= 100000 train_ret= -18.58 eval_ret= -16.04 success=0% len=200 entropy=1.394
+[REINFORCE run 5] frames= 240000 train_ret= -24.60 eval_ret= -19.20 success=0% len=200 entropy=1.376
+[REINFORCE run 4] frames= 260000 train_ret=   2.88 eval_ret= -81.45 success=0% len=200 entropy=1.067
+[REINFORCE run 8] frames= 108000 train_ret= -22.42 eval_ret= -19.20 success=0% len=200 entropy=1.346
+[REINFORCE run 6] frames= 240000 train_ret=   0.06 eval_ret= -19.20 success=0% len=200 entropy=1.205
+[REINFORCE run 7] frames= 240000 train_ret=   4.34 eval_ret=  13.54 success=0% len=200 entropy=1.396
+[REINFORCE run 9] frames= 120000 train_ret= -10.66 eval_ret= -71.44 success=0% len=200 entropy=1.325
+[REINFORCE run 8] frames= 126000 train_ret= -19.24 eval_ret= -19.20 success=0% len=200 entropy=1.225
+[REINFORCE run 5] frames= 260000 train_ret= -22.26 eval_ret= -19.20 success=0% len=200 entropy=1.339
+[REINFORCE run 4] frames= 280000 train_ret=   1.86 eval_ret= -32.03 success=0% len=200 entropy=1.209
+[REINFORCE run 6] frames= 260000 train_ret=   1.92 eval_ret= -19.20 success=0% len=200 entropy=1.224
+[REINFORCE run 7] frames= 260000 train_ret=   7.52 eval_ret= -63.66 success=0% len=200 entropy=1.557
+[REINFORCE run 9] frames= 140000 train_ret=   2.36 eval_ret= -19.10 success=0% len=200 entropy=1.254
+[REINFORCE run 8] frames= 144000 train_ret= -19.25 eval_ret= -19.20 success=0% len=200 entropy=1.153
+[REINFORCE run 4] frames= 300000 train_ret=   5.86 eval_ret=  -5.89 success=0% len=200 entropy=1.198
+[REINFORCE run 5] frames= 280000 train_ret= -21.64 eval_ret= -19.20 success=0% len=200 entropy=1.169
+[REINFORCE run 6] frames= 280000 train_ret=   0.70 eval_ret= -19.20 success=0% len=200 entropy=1.114
+DONE reinforce run 4: return=-2.25 success=0% (161s)
+[REINFORCE run 4] FINAL eval_return=-2.25 success=0%
+[92m2026-11-25 00:33:36,157 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[REINFORCE run 7] frames= 280000 train_ret=  34.26 eval_ret= -50.89 success=20% len=185 entropy=1.432
+[REINFORCE run 9] frames= 160000 train_ret=   0.68 eval_ret= -12.94 success=0% len=200 entropy=1.220
+[REINFORCE run 8] frames= 162000 train_ret= -18.42 eval_ret= -19.20 success=0% len=200 entropy=1.092
+[REINFORCE run 5] frames= 300000 train_ret= -22.72 eval_ret= -19.20 success=0% len=200 entropy=1.266
+[REINFORCE run 6] frames= 300000 train_ret=   8.34 eval_ret= -19.20 success=0% len=200 entropy=1.067
+DONE reinforce run 5: return=-18.64 success=0% (160s)
+[REINFORCE run 7] frames= 300000 train_ret=  31.60 eval_ret=  51.22 success=100% len=64 entropy=1.411
+[REINFORCE run 5] FINAL eval_return=-18.64 success=0%
+[92m2026-11-25 00:33:48,131 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+DONE reinforce run 7: return=49.56 success=100% (162s)
+[REINFORCE run 7] FINAL eval_return=49.56 success=100%
+[92m2026-11-25 00:33:50,596 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[REINFORCE run 8] frames= 180000 train_ret= -17.14 eval_ret= -19.20 success=0% len=200 entropy=1.069
+[PPO run 0] frames=  18432 train_ret= -17.38 eval_ret= -38.79 success=0% len=200 entropy=1.598
+DONE reinforce run 6: return=-18.64 success=0% (161s)
+[REINFORCE run 9] frames= 180000 train_ret=   4.70 eval_ret=  -7.72 success=0% len=200 entropy=1.156
+[REINFORCE run 6] FINAL eval_return=-18.64 success=0%
+[92m2026-11-25 00:33:51,959 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[REINFORCE run 8] frames= 198000 train_ret= -17.30 eval_ret= -19.20 success=0% len=200 entropy=1.146
+[PPO run 1] frames=  18432 train_ret= -25.06 eval_ret= -17.78 success=0% len=200 entropy=1.615
+[REINFORCE run 9] frames= 200000 train_ret=   6.88 eval_ret= -18.93 success=0% len=200 entropy=1.087
+[PPO run 2] frames=  18432 train_ret= -34.32 eval_ret= -76.10 success=0% len=200 entropy=1.735
+[PPO run 0] frames=  36864 train_ret=   4.08 eval_ret=  13.06 success=0% len=200 entropy=1.170
+[PPO run 3] frames=  18432 train_ret= -36.28 eval_ret= -59.96 success=0% len=200 entropy=1.858
+[REINFORCE run 8] frames= 216000 train_ret= -15.71 eval_ret= -19.20 success=0% len=200 entropy=1.237
+[REINFORCE run 9] frames= 220000 train_ret=   5.90 eval_ret= -57.12 success=0% len=200 entropy=0.931
+[PPO run 1] frames=  36864 train_ret=  -6.85 eval_ret= -38.88 success=0% len=200 entropy=1.378
+[PPO run 2] frames=  36864 train_ret= -21.09 eval_ret= -19.20 success=0% len=200 entropy=1.427
+[PPO run 0] frames=  55296 train_ret=  11.79 eval_ret=  13.54 success=0% len=200 entropy=0.947
+[PPO run 3] frames=  36864 train_ret= -14.69 eval_ret= -31.42 success=0% len=200 entropy=1.585
+[REINFORCE run 8] frames= 234000 train_ret= -14.21 eval_ret= -19.20 success=0% len=200 entropy=1.197
+[REINFORCE run 9] frames= 240000 train_ret=  25.59 eval_ret=  -2.03 success=0% len=200 entropy=0.944
+[PPO run 1] frames=  55296 train_ret=  -7.18 eval_ret=  -1.29 success=0% len=200 entropy=1.245
+[REINFORCE run 8] frames= 252000 train_ret= -11.77 eval_ret= -19.20 success=0% len=200 entropy=1.278
+[PPO run 2] frames=  55296 train_ret=  -7.71 eval_ret= -19.20 success=0% len=200 entropy=1.380
+[PPO run 0] frames=  73728 train_ret=  44.26 eval_ret=  48.88 success=100% len=116 entropy=0.633
+[PPO run 3] frames=  55296 train_ret= -11.77 eval_ret= -29.30 success=0% len=200 entropy=1.479
+[REINFORCE run 9] frames= 260000 train_ret=  42.30 eval_ret= -16.51 success=30% len=163 entropy=0.865
+[REINFORCE run 8] frames= 270000 train_ret=  -8.56 eval_ret= -19.20 success=0% len=200 entropy=1.348
+[PPO run 1] frames=  73728 train_ret=   1.36 eval_ret=   4.81 success=0% len=200 entropy=0.944
+[PPO run 0] frames=  92160 train_ret=  46.43 eval_ret=  51.23 success=100% len=64 entropy=0.318
+[PPO run 2] frames=  73728 train_ret=   0.71 eval_ret= -19.20 success=0% len=200 entropy=1.308
+[REINFORCE run 9] frames= 280000 train_ret=  46.78 eval_ret=  37.76 success=90% len=80 entropy=0.767
+[PPO run 3] frames=  73728 train_ret=  -4.00 eval_ret=  -7.99 success=0% len=200 entropy=1.393
+[REINFORCE run 8] frames= 288000 train_ret=  -5.67 eval_ret= -19.20 success=0% len=200 entropy=1.370
+[REINFORCE run 9] frames= 300000 train_ret=  46.78 eval_ret=  51.23 success=100% len=64 entropy=0.548
+[PPO run 1] frames=  92160 train_ret=   7.79 eval_ret=   5.64 success=0% len=200 entropy=0.754
+DONE reinforce run 9: return=47.12 success=96% (163s)
+[PPO run 0] frames= 110592 train_ret=  47.17 eval_ret=  51.23 success=100% len=64 entropy=0.303
+DONE reinforce run 8: return=-18.54 success=0% (161s)
+[REINFORCE run 9] FINAL eval_return=47.12 success=96%
+[92m2026-11-25 00:34:57,858 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[PPO run 2] frames=  92160 train_ret=   9.45 eval_ret=  12.68 success=0% len=200 entropy=1.190
+[PPO run 3] frames=  92160 train_ret=   6.08 eval_ret=   4.53 success=0% len=200 entropy=1.282
+[REINFORCE run 8] FINAL eval_return=-18.54 success=0%
+[92m2026-11-25 00:34:59,205 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[PPO run 5] frames=  18432 train_ret= -28.50 eval_ret= -19.20 success=0% len=200 entropy=1.680
+[PPO run 1] frames= 110592 train_ret=   5.89 eval_ret=  11.39 success=0% len=200 entropy=0.828
+[PPO run 4] frames=  18432 train_ret= -16.94 eval_ret= -19.20 success=0% len=200 entropy=1.486
+[PPO run 0] frames= 129024 train_ret=  48.36 eval_ret=  33.05 success=80% len=91 entropy=0.164
+[PPO run 2] frames= 110592 train_ret=   6.10 eval_ret=  12.74 success=0% len=200 entropy=1.052
+[PPO run 3] frames= 110592 train_ret=  24.54 eval_ret=   2.96 success=30% len=180 entropy=1.067
+[PPO run 5] frames=  36864 train_ret= -15.35 eval_ret= -19.20 success=0% len=200 entropy=1.429
+[PPO run 1] frames= 129024 train_ret=  12.64 eval_ret=  10.97 success=0% len=200 entropy=0.689
+[PPO run 0] frames= 147456 train_ret=  47.05 eval_ret=  30.08 success=80% len=91 entropy=0.197
+[PPO run 4] frames=  36864 train_ret=  -7.43 eval_ret= -10.57 success=0% len=200 entropy=1.269
+[PPO run 3] frames= 129024 train_ret=  43.18 eval_ret=  14.10 success=60% len=125 entropy=0.647
+[PPO run 2] frames= 129024 train_ret=  11.83 eval_ret=  12.92 success=0% len=200 entropy=0.930
+[PPO run 5] frames=  55296 train_ret=  -1.89 eval_ret= -19.10 success=0% len=200 entropy=1.388
+[PPO run 1] frames= 147456 train_ret=  13.00 eval_ret=  12.41 success=0% len=200 entropy=0.681
+[PPO run 0] frames= 165888 train_ret=  45.27 eval_ret=  38.43 success=80% len=91 entropy=0.187
+[PPO run 4] frames=  55296 train_ret=  -6.95 eval_ret=  -7.73 success=0% len=200 entropy=1.042
+[PPO run 3] frames= 147456 train_ret=  47.07 eval_ret=  39.95 success=90% len=77 entropy=0.417
+[PPO run 2] frames= 147456 train_ret=  11.20 eval_ret=  13.26 success=0% len=200 entropy=0.965
+[PPO run 5] frames=  73728 train_ret=   3.17 eval_ret=  12.56 success=0% len=200 entropy=1.225
+[PPO run 1] frames= 165888 train_ret=   6.36 eval_ret=   9.26 success=0% len=200 entropy=0.705
+[PPO run 0] frames= 184320 train_ret=  47.52 eval_ret=  51.23 success=100% len=64 entropy=0.185
+[PPO run 4] frames=  73728 train_ret=  -3.47 eval_ret= -21.06 success=0% len=200 entropy=0.936
+[PPO run 3] frames= 165888 train_ret=  47.69 eval_ret=  51.23 success=100% len=64 entropy=0.297
+[PPO run 2] frames= 165888 train_ret=  43.06 eval_ret=  13.50 success=0% len=200 entropy=0.617
+[PPO run 5] frames=  92160 train_ret=  10.47 eval_ret=  13.00 success=0% len=200 entropy=1.107
+[PPO run 0] frames= 202752 train_ret=  48.72 eval_ret=  51.23 success=100% len=64 entropy=0.200
+[PPO run 1] frames= 184320 train_ret=   6.66 eval_ret=  -9.12 success=0% len=200 entropy=0.718
+[PPO run 3] frames= 184320 train_ret=  46.81 eval_ret=  51.23 success=100% len=64 entropy=0.269
+[PPO run 5] frames= 110592 train_ret=  22.75 eval_ret=  13.20 success=0% len=200 entropy=0.995
+[PPO run 4] frames=  92160 train_ret=  -7.60 eval_ret=  -5.45 success=0% len=200 entropy=0.988
+[PPO run 2] frames= 184320 train_ret=  47.06 eval_ret=  51.23 success=100% len=64 entropy=0.289
+[PPO run 5] frames= 129024 train_ret=  44.86 eval_ret=  51.23 success=100% len=64 entropy=0.460
+[PPO run 0] frames= 221184 train_ret=  45.75 eval_ret=  40.21 success=90% len=77 entropy=0.258
+[PPO run 1] frames= 202752 train_ret=  12.83 eval_ret=  13.54 success=0% len=200 entropy=0.748
+[PPO run 3] frames= 202752 train_ret=  45.86 eval_ret=  39.95 success=90% len=77 entropy=0.186
+[PPO run 4] frames= 110592 train_ret=  -5.41 eval_ret=  -0.71 success=0% len=200 entropy=0.974
+[PPO run 2] frames= 202752 train_ret=  47.07 eval_ret=  51.23 success=100% len=64 entropy=0.185
+[PPO run 5] frames= 147456 train_ret=  47.32 eval_ret=  51.23 success=100% len=64 entropy=0.304
+[PPO run 0] frames= 239616 train_ret=  49.45 eval_ret=  51.22 success=100% len=64 entropy=0.187
+[PPO run 3] frames= 221184 train_ret=  47.92 eval_ret=  39.95 success=90% len=77 entropy=0.194
+[PPO run 1] frames= 221184 train_ret=   5.97 eval_ret=  13.08 success=0% len=200 entropy=0.832
+[PPO run 4] frames= 129024 train_ret=  -2.99 eval_ret=  -0.01 success=0% len=200 entropy=0.824
+[PPO run 2] frames= 221184 train_ret=  48.88 eval_ret=  51.23 success=100% len=64 entropy=0.165
+[PPO run 5] frames= 165888 train_ret=  47.60 eval_ret=  51.23 success=100% len=64 entropy=0.210
+[PPO run 0] frames= 258048 train_ret=  49.57 eval_ret=  29.18 success=80% len=91 entropy=0.196
+[PPO run 3] frames= 239616 train_ret=  48.66 eval_ret=  39.95 success=90% len=77 entropy=0.206
+[PPO run 1] frames= 239616 train_ret=  10.19 eval_ret=  13.52 success=0% len=200 entropy=0.809
+[PPO run 4] frames= 147456 train_ret=   7.56 eval_ret=   3.83 success=0% len=200 entropy=0.551
+[PPO run 2] frames= 239616 train_ret=  47.71 eval_ret=  51.23 success=100% len=64 entropy=0.128
+[PPO run 5] frames= 184320 train_ret=  49.34 eval_ret=  51.23 success=100% len=64 entropy=0.193
+[PPO run 0] frames= 276480 train_ret=  46.09 eval_ret=  16.25 success=70% len=104 entropy=0.160
+[PPO run 3] frames= 258048 train_ret=  46.56 eval_ret=  51.23 success=100% len=64 entropy=0.239
+[PPO run 5] frames= 202752 train_ret=  46.92 eval_ret=  51.23 success=100% len=64 entropy=0.167
+[PPO run 1] frames= 258048 train_ret=  10.21 eval_ret=  12.46 success=0% len=200 entropy=0.660
+[PPO run 2] frames= 258048 train_ret=  48.11 eval_ret=  51.23 success=100% len=64 entropy=0.133
+[PPO run 4] frames= 165888 train_ret=  14.92 eval_ret=  10.88 success=0% len=200 entropy=0.616
+[PPO run 5] frames= 221184 train_ret=  45.37 eval_ret=  51.23 success=100% len=64 entropy=0.158
+[PPO run 0] frames= 294912 train_ret=  47.82 eval_ret=  41.57 success=90% len=77 entropy=0.106
+[PPO run 3] frames= 276480 train_ret=  45.92 eval_ret=  39.10 success=90% len=77 entropy=0.199
+[PPO run 1] frames= 276480 train_ret=  34.42 eval_ret=  17.23 success=60% len=148 entropy=0.670
+[PPO run 2] frames= 276480 train_ret=  46.39 eval_ret=  51.23 success=100% len=64 entropy=0.087
+[PPO run 4] frames= 184320 train_ret=  13.92 eval_ret=  13.61 success=0% len=200 entropy=0.722
+DONE ppo run 0: return=49.57 success=100% (226s)
+[PPO run 0] FINAL eval_return=49.57 success=100%
+[92m2026-11-25 00:37:23,741 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[PPO run 5] frames= 239616 train_ret=  45.72 eval_ret=  51.23 success=100% len=64 entropy=0.116
+[PPO run 3] frames= 294912 train_ret=  47.02 eval_ret=  21.59 success=70% len=104 entropy=0.233
+[PPO run 1] frames= 294912 train_ret=  46.17 eval_ret=  14.00 success=70% len=104 entropy=0.377
+[PPO run 2] frames= 294912 train_ret=  51.42 eval_ret=  51.23 success=100% len=64 entropy=0.131
+[PPO run 4] frames= 202752 train_ret=  43.68 eval_ret=  38.64 success=70% len=182 entropy=0.487
+[PPO run 6] frames=  18432 train_ret=  -9.94 eval_ret=  11.40 success=0% len=200 entropy=1.399
+DONE ppo run 3: return=49.56 success=100% (224s)
+[PPO run 5] frames= 258048 train_ret=  47.76 eval_ret=  51.22 success=100% len=64 entropy=0.108
+[PPO run 3] FINAL eval_return=49.56 success=100%
+[92m2026-11-25 00:37:37,408 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+DONE ppo run 2: return=49.57 success=100% (228s)
+DONE ppo run 1: return=18.59 success=56% (230s)
+[PPO run 2] FINAL eval_return=49.57 success=100%
+[92m2026-11-25 00:37:39,918 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([2048]) shape[92m [END][0m
+[PPO run 1] FINAL eval_return=18.59 success=56%
+[92m2026-11-25 00:37:39,937 [torchrl][INFO][0m    Initialized LazyTensorStorage with torch.Size([1024]) shape[92m [END][0m
+[PPO run 4] frames= 221184 train_ret=  46.63 eval_ret=  51.10 success=100% len=67 entropy=0.193
+[PPO run 5] frames= 276480 train_ret=  46.38 eval_ret=  51.22 success=100% len=64 entropy=0.102
+[PPO run 6] frames=  36864 train_ret=  49.45 eval_ret=  49.81 success=100% len=95 entropy=0.345
+[PPO run 7] frames=  18432 train_ret= -14.43 eval_ret= -11.89 success=0% len=200 entropy=1.612
+[PPO run 8] frames=  18432 train_ret= -23.78 eval_ret= -35.25 success=0% len=200 entropy=1.756
+[PPO run 9] frames=  19456 train_ret=  -8.54 eval_ret=  -5.34 success=0% len=200 entropy=1.374
+[PPO run 5] frames= 294912 train_ret=  48.92 eval_ret=  27.80 success=80% len=91 entropy=0.124
+[PPO run 4] frames= 239616 train_ret=  49.35 eval_ret=  27.73 success=80% len=91 entropy=0.183
+[PPO run 6] frames=  55296 train_ret=  46.68 eval_ret=  51.23 success=100% len=64 entropy=0.177
+DONE ppo run 5: return=49.57 success=100% (184s)
+[PPO run 7] frames=  36864 train_ret=   5.18 eval_ret=  -0.96 success=0% len=200 entropy=1.246
+[PPO run 8] frames=  36864 train_ret=  -4.63 eval_ret=  10.46 success=0% len=200 entropy=1.535
+[PPO run 4] frames= 258048 train_ret=  44.53 eval_ret=  51.23 success=100% len=64 entropy=0.160
+[PPO run 5] FINAL eval_return=49.57 success=100%
+[A2C run 0] frames=  19968 train_ret=    nan eval_ret= -19.30 success=0% len=200 entropy=1.407
+[PPO run 9] frames=  38912 train_ret=  -5.66 eval_ret=  -0.25 success=0% len=200 entropy=1.154
+[PPO run 6] frames=  73728 train_ret=  49.15 eval_ret=  51.23 success=100% len=64 entropy=0.156
+[PPO run 7] frames=  55296 train_ret=  11.84 eval_ret=  13.46 success=0% len=200 entropy=1.015
+[PPO run 8] frames=  55296 train_ret=  31.36 eval_ret=  37.05 success=80% len=94 entropy=1.207
+[A2C run 0] frames=  39936 train_ret=    nan eval_ret= -20.46 success=0% len=200 entropy=1.392
+[PPO run 4] frames= 276480 train_ret=  46.74 eval_ret=  48.67 success=100% len=72 entropy=0.158
+[PPO run 6] frames=  92160 train_ret=  48.96 eval_ret=  52.47 success=100% len=65 entropy=0.186
+[PPO run 7] frames=  73728 train_ret=  38.04 eval_ret=  13.52 success=0% len=200 entropy=0.742
+[PPO run 8] frames=  73728 train_ret=  45.45 eval_ret=  51.23 success=100% len=64 entropy=0.702
+[PPO run 9] frames=  58368 train_ret= -11.96 eval_ret= -34.60 success=0% len=200 entropy=1.096
+[A2C run 0] frames=  59904 train_ret=    nan eval_ret= -30.82 success=0% len=200 entropy=1.277
+[PPO run 4] frames= 294912 train_ret=  39.41 eval_ret=  35.73 success=90% len=77 entropy=0.216
+[PPO run 6] frames= 110592 train_ret=  48.33 eval_ret=  39.43 success=90% len=79 entropy=0.145
+[PPO run 7] frames=  92160 train_ret=  48.49 eval_ret=  51.23 success=100% len=64 entropy=0.319
+[A2C run 0] frames=  79872 train_ret=    nan eval_ret= -53.60 success=0% len=200 entropy=1.076
+DONE ppo run 4: return=49.57 success=100% (227s)
+[PPO run 8] frames=  92160 train_ret=  40.91 eval_ret=  51.23 success=100% len=64 entropy=0.739
+[PPO run 9] frames=  77824 train_ret=  -2.28 eval_ret= -41.60 success=0% len=200 entropy=0.842
+[A2C run 0] frames=  99840 train_ret=  45.71 eval_ret=  42.86 success=80% len=91 entropy=0.376
+[PPO run 6] frames= 129024 train_ret=  51.44 eval_ret=  45.92 success=90% len=80 entropy=0.124
+[PPO run 4] FINAL eval_return=49.57 success=100%
+[A2C run 1] frames=  19968 train_ret=    nan eval_ret= -78.60 success=0% len=200 entropy=1.690
+[PPO run 7] frames= 110592 train_ret=  48.37 eval_ret=  51.23 success=100% len=64 entropy=0.170
+[PPO run 8] frames= 110592 train_ret=  45.09 eval_ret=  51.23 success=100% len=64 entropy=0.670
+[A2C run 0] frames= 119808 train_ret=  41.11 eval_ret=  47.02 success=90% len=77 entropy=0.169
+[A2C run 1] frames=  39936 train_ret=    nan eval_ret= -19.20 success=0% len=200 entropy=1.481
+[PPO run 6] frames= 147456 train_ret=  49.68 eval_ret=  54.00 success=100% len=67 entropy=0.138
+[PPO run 9] frames=  97280 train_ret= -11.24 eval_ret=  -7.04 success=0% len=200 entropy=0.871
+[PPO run 7] frames= 129024 train_ret=  44.33 eval_ret=  51.23 success=100% len=64 entropy=0.157
+[PPO run 8] frames= 129024 train_ret=  42.14 eval_ret=  51.23 success=100% len=64 entropy=0.687
+[A2C run 0] frames= 139776 train_ret=  45.79 eval_ret=  43.69 success=90% len=99 entropy=0.205
+[A2C run 1] frames=  59904 train_ret=    nan eval_ret= -19.20 success=0% len=200 entropy=1.460
+[PPO run 6] frames= 165888 train_ret=  54.50 eval_ret=  54.18 success=100% len=67 entropy=0.134
+[PPO run 7] frames= 147456 train_ret=  45.50 eval_ret=  33.30 success=80% len=91 entropy=0.139
+[PPO run 8] frames= 147456 train_ret=  46.39 eval_ret=  51.23 success=100% len=64 entropy=0.569
+[A2C run 0] frames= 159744 train_ret=  53.02 eval_ret=  15.32 success=60% len=118 entropy=0.132
+[PPO run 9] frames= 116736 train_ret=  -3.58 eval_ret=  -1.41 success=0% len=200 entropy=0.912
+[A2C run 1] frames=  79872 train_ret=    nan eval_ret= -19.20 success=0% len=200 entropy=1.336
+[PPO run 6] frames= 184320 train_ret=  50.16 eval_ret=  54.29 success=100% len=67 entropy=0.168
+[PPO run 7] frames= 165888 train_ret=  47.78 eval_ret=  41.44 success=90% len=77 entropy=0.099
+[A2C run 0] frames= 179712 train_ret=  40.75 eval_ret=  50.56 success=100% len=79 entropy=0.071
+[PPO run 8] frames= 165888 train_ret=  47.92 eval_ret=  51.23 success=100% len=64 entropy=0.684
+[A2C run 1] frames=  99840 train_ret=  -1.10 eval_ret= -19.20 success=0% len=200 entropy=1.107
+[PPO run 9] frames= 136192 train_ret=  -9.28 eval_ret=  -0.47 success=0% len=200 entropy=0.666
+[A2C run 0] frames= 199680 train_ret=  58.98 eval_ret=  51.23 success=100% len=64 entropy=0.043
+[PPO run 6] frames= 202752 train_ret=  52.81 eval_ret=  54.77 success=100% len=67 entropy=0.143
+[PPO run 7] frames= 184320 train_ret=  49.86 eval_ret=  41.44 success=90% len=77 entropy=0.096
+[A2C run 1] frames= 119808 train_ret=  -6.20 eval_ret= -19.20 success=0% len=200 entropy=1.010
+[PPO run 8] frames= 184320 train_ret=  45.03 eval_ret=  51.23 success=100% len=64 entropy=0.612
+[A2C run 0] frames= 219648 train_ret=  47.06 eval_ret=  51.23 success=100% len=64 entropy=0.031
+[A2C run 1] frames= 139776 train_ret=    nan eval_ret= -19.20 success=0% len=200 entropy=1.198
+[PPO run 6] frames= 221184 train_ret=  51.23 eval_ret=  54.86 success=100% len=68 entropy=0.144
+[PPO run 7] frames= 202752 train_ret=  47.58 eval_ret=  51.22 success=100% len=64 entropy=0.100
+[PPO run 9] frames= 155648 train_ret=  -2.04 eval_ret=  -2.73 success=0% len=200 entropy=0.851
+[PPO run 8] frames= 202752 train_ret=  45.30 eval_ret=  51.23 success=100% len=64 entropy=0.640
+[A2C run 0] frames= 239616 train_ret=  41.11 eval_ret=  51.04 success=100% len=68 entropy=0.040
+[A2C run 1] frames= 159744 train_ret=    nan eval_ret= -17.86 success=0% len=200 entropy=1.296
+[PPO run 6] frames= 239616 train_ret=  52.10 eval_ret=  46.11 success=90% len=80 entropy=0.136
+[PPO run 7] frames= 221184 train_ret=  45.89 eval_ret=  39.95 success=90% len=77 entropy=0.116
+[A2C run 0] frames= 259584 train_ret=  41.20 eval_ret=  51.32 success=100% len=62 entropy=0.033
+[PPO run 8] frames= 221184 train_ret=  41.68 eval_ret=  34.92 success=90% len=87 entropy=0.540
+[PPO run 9] frames= 175104 train_ret=  -5.88 eval_ret=  -0.19 success=0% len=200 entropy=0.645
+[A2C run 1] frames= 179712 train_ret=    nan eval_ret= -10.91 success=0% len=200 entropy=1.162
+[PPO run 6] frames= 258048 train_ret=  51.54 eval_ret=  36.00 success=80% len=94 entropy=0.126
+[A2C run 0] frames= 279552 train_ret=  58.98 eval_ret=  51.23 success=100% len=64 entropy=0.026
+[PPO run 7] frames= 239616 train_ret=  47.94 eval_ret=  51.23 success=100% len=64 entropy=0.140
+[PPO run 8] frames= 239616 train_ret=  46.41 eval_ret=  51.23 success=100% len=64 entropy=0.583
+[A2C run 1] frames= 199680 train_ret=    nan eval_ret= -21.30 success=0% len=200 entropy=1.267
+[A2C run 0] frames= 299520 train_ret=  47.15 eval_ret=  51.29 success=100% len=62 entropy=0.025
+[PPO run 9] frames= 194560 train_ret=  -6.96 eval_ret=  -4.43 success=0% len=200 entropy=0.527
+DONE a2c run 0: return=49.66 success=100% (156s)
+[PPO run 6] frames= 276480 train_ret=  51.96 eval_ret=  42.37 success=90% len=80 entropy=0.172
+[PPO run 7] frames= 258048 train_ret=  48.65 eval_ret=  31.63 success=90% len=107 entropy=0.128
+[A2C run 1] frames= 219648 train_ret=  32.88 eval_ret=  43.20 success=90% len=83 entropy=0.584
+[PPO run 8] frames= 258048 train_ret=  44.97 eval_ret=  51.22 success=100% len=64 entropy=0.623
+[A2C run 0] FINAL eval_return=49.66 success=100%
+[A2C run 2] frames=  19968 train_ret=    nan eval_ret= -72.68 success=0% len=200 entropy=1.277
+[A2C run 1] frames= 239616 train_ret=  34.52 eval_ret=  51.23 success=100% len=64 entropy=0.340
+[PPO run 6] frames= 294912 train_ret=  48.59 eval_ret=  54.39 success=100% len=67 entropy=0.148
+[PPO run 7] frames= 276480 train_ret=  46.35 eval_ret=  51.06 success=100% len=68 entropy=0.137
+[PPO run 9] frames= 214016 train_ret=   0.93 eval_ret=  -0.17 success=0% len=200 entropy=0.498
+[PPO run 8] frames= 276480 train_ret=  45.57 eval_ret=  51.52 success=100% len=64 entropy=0.661
+DONE ppo run 6: return=53.42 success=100% (216s)
+[A2C run 2] frames=  39936 train_ret=    nan eval_ret= -13.20 success=0% len=200 entropy=0.264
+[A2C run 1] frames= 259584 train_ret=  57.62 eval_ret=  51.23 success=100% len=64 entropy=0.342
+[PPO run 7] frames= 294912 train_ret=  46.72 eval_ret=  48.84 success=100% len=73 entropy=0.117
+[PPO run 8] frames= 294912 train_ret=  43.94 eval_ret=  51.60 success=100% len=64 entropy=0.676
+[A2C run 2] frames=  59904 train_ret=    nan eval_ret= -78.60 success=0% len=200 entropy=0.003
+[PPO run 6] FINAL eval_return=53.42 success=100%
+[A2C run 3] frames=  20000 train_ret=  15.30 eval_ret=   0.28 success=0% len=200 entropy=1.053
+[A2C run 1] frames= 279552 train_ret=  56.80 eval_ret=  51.23 success=100% len=64 entropy=0.148
+DONE ppo run 7: return=49.57 success=100% (217s)
+[PPO run 9] frames= 233472 train_ret=  -6.08 eval_ret=  -1.95 success=0% len=200 entropy=0.512
+DONE ppo run 8: return=50.02 success=100% (218s)
+[A2C run 2] frames=  79872 train_ret=    nan eval_ret= -79.20 success=0% len=200 entropy=0.101
+[A2C run 1] frames= 299520 train_ret=  53.02 eval_ret=  51.23 success=100% len=64 entropy=0.078
+[PPO run 7] FINAL eval_return=49.57 success=100%
+[A2C run 4] frames=  19968 train_ret= -46.80 eval_ret= -79.20 success=0% len=200 entropy=1.981
+DONE a2c run 1: return=49.57 success=100% (159s)
+[A2C run 3] frames=  40000 train_ret=  41.11 eval_ret=  36.27 success=50% len=132 entropy=0.083
+[PPO run 8] FINAL eval_return=50.02 success=100%
+[A2C run 5] frames=  19968 train_ret=    nan eval_ret= -19.20 success=0% len=200 entropy=1.332
+[A2C run 2] frames=  99840 train_ret= -17.80 eval_ret= -19.40 success=0% len=200 entropy=0.553
+[PPO run 9] frames= 252928 train_ret=  -5.38 eval_ret=  -3.59 success=0% len=200 entropy=0.672
+[A2C run 4] frames=  39936 train_ret= -27.60 eval_ret= -19.40 success=0% len=200 entropy=0.862
+[A2C run 1] FINAL eval_return=49.57 success=100%
+[A2C run 6] frames=  19968 train_ret=    nan eval_ret= -19.20 success=0% len=200 entropy=1.456
+[A2C run 3] frames=  60000 train_ret=    nan eval_ret=  51.23 success=100% len=64 entropy=0.053
+[A2C run 5] frames=  39936 train_ret=    nan eval_ret=   7.31 success=0% len=200 entropy=1.184
+[A2C run 2] frames= 119808 train_ret=  -3.90 eval_ret=-115.20 success=0% len=200 entropy=0.553
+[A2C run 4] frames=  59904 train_ret= -34.20 eval_ret= -19.40 success=0% len=200 entropy=0.757
+[A2C run 6] frames=  39936 train_ret=    nan eval_ret=   4.83 success=0% len=200 entropy=0.801
+[A2C run 5] frames=  59904 train_ret=    nan eval_ret=  13.54 success=0% len=200 entropy=0.893
+[A2C run 3] frames=  80000 train_ret=    nan eval_ret=  30.83 success=80% len=94 entropy=0.128
+[PPO run 9] frames= 272384 train_ret=  -5.94 eval_ret=  -9.31 success=0% len=200 entropy=0.750
+[A2C run 4] frames=  79872 train_ret= -23.20 eval_ret= -19.40 success=0% len=200 entropy=0.735
+[A2C run 2] frames= 139776 train_ret=    nan eval_ret= -19.60 success=0% len=200 entropy=0.543
+[A2C run 6] frames=  59904 train_ret=    nan eval_ret=  13.46 success=0% len=200 entropy=0.764
+[A2C run 5] frames=  79872 train_ret=  39.29 eval_ret=  51.23 success=100% len=64 entropy=0.233
+[A2C run 3] frames= 100000 train_ret=    nan eval_ret=  51.23 success=100% len=64 entropy=0.008
+[A2C run 4] frames=  99840 train_ret= -26.20 eval_ret= -19.40 success=0% len=200 entropy=0.721
+[A2C run 2] frames= 159744 train_ret=    nan eval_ret= -10.36 success=0% len=200 entropy=0.615
+[A2C run 6] frames=  79872 train_ret=  46.97 eval_ret=  51.23 success=100% len=64 entropy=0.158
+[PPO run 9] frames= 291840 train_ret=  -0.70 eval_ret=  -2.37 success=0% len=200 entropy=0.646
+[A2C run 5] frames=  99840 train_ret=  52.47 eval_ret=  51.23 success=100% len=64 entropy=0.066
+[A2C run 4] frames= 119808 train_ret= -22.30 eval_ret= -19.40 success=0% len=200 entropy=0.766
+[A2C run 3] frames= 120000 train_ret=    nan eval_ret=  51.23 success=100% len=64 entropy=0.002
+[A2C run 2] frames= 179712 train_ret=    nan eval_ret= -18.17 success=0% len=200 entropy=0.415
+[A2C run 6] frames=  99840 train_ret=  46.97 eval_ret=  51.23 success=100% len=64 entropy=0.077
+[A2C run 5] frames= 119808 train_ret=  47.06 eval_ret=  51.23 success=100% len=64 entropy=0.036
+DONE ppo run 9: return=0.95 success=0% (280s)
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/.venv/lib/python3.11/site-packages/tensordict/base.py", line 3968, in __getitem__
+    result = self._tensordict[index]
+             ~~~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'loss_entropy'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookpro/.local/share/uv/python/cpython-3.11.16-macos-aarch64-none/lib/python3.11/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/training/sweep.py", line 31, in _job
+    return {**train_pg(algo, CONFIGS[algo](**overrides), run_id, verbose=True), "changes": json.dumps(overrides)}
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/training/pg_training.py", line 201, in train_pg
+    loss = out["loss_objective"] + out["loss_critic"] + out["loss_entropy"]
+                                                        ~~~^^^^^^^^^^^^^^^^
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/.venv/lib/python3.11/site-packages/tensordict/base.py", line 3970, in __getitem__
+    return self._default_get(index, NO_DEFAULT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/.venv/lib/python3.11/site-packages/tensordict/base.py", line 6387, in _default_get
+    raise KeyError(
+KeyError: 'key "loss_entropy" not found in TensorDict with keys [\'loss_critic\', \'loss_objective\']'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/training/sweep.py", line 100, in <module>
+    
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/training/sweep.py", line 96, in main
+    for al in (ALGOS if a.algo == "all" else [a.algo]):
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookpro/Documents/ALU/alu-machine_learning/mission-based-rl/training/sweep.py", line 74, in sweep
+    jobs.append((a, rid, table[rid], frames))
+  File "/Users/macbookpro/.local/share/uv/python/cpython-3.11.16-macos-aarch64-none/lib/python3.11/multiprocessing/pool.py", line 873, in next
+    raise value
+KeyError: 'key "loss_entropy" not found in TensorDict with keys [\'loss_critic\', \'loss_objective\']'

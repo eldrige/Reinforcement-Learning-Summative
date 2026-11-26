@@ -1,0 +1,32 @@
+{
+  "config": {
+    "lr": 0.0005,
+    "gamma": 0.99,
+    "batch_size": 128,
+    "buffer_size": 50000,
+    "eps_init": 1.0,
+    "eps_end": 0.05,
+    "eps_decay_frac": 0.25,
+    "target_update": 0,
+    "tau": 0.01,
+    "hidden": [
+      128,
+      128
+    ],
+    "double_dqn": false,
+    "n_step": 3,
+    "frames_per_batch": 100,
+    "updates_per_batch": 25,
+    "init_random_frames": 2000,
+    "total_frames": 300000,
+    "seed": 0
+  },
+  "algo": "dqn",
+  "run_id": 9,
+  "eval_return": 14.696000680923461,
+  "eval_success": 0.0,
+  "eval_length": 200.0,
+  "episodes": 1500,
+  "frames_to_converge": 73700,
+  "train_time_s": 256.1202988624573
+}

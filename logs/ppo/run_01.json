@@ -1,0 +1,27 @@
+{
+  "config": {
+    "lr": 0.001,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_eps": 0.2,
+    "epochs": 10,
+    "minibatch": 256,
+    "frames_per_batch": 2048,
+    "entropy_coef": 0.01,
+    "critic_coef": 0.5,
+    "hidden": [
+      128,
+      128
+    ],
+    "total_frames": 300000,
+    "seed": 0
+  },
+  "algo": "ppo",
+  "run_id": 1,
+  "eval_return": 18.59060043334961,
+  "eval_success": 0.56,
+  "eval_length": 142.52,
+  "episodes": 1712,
+  "frames_to_converge": 270336,
+  "train_time_s": 229.8048038482666
+}
